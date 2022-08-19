@@ -33,3 +33,7 @@ I am a Robotics Software Engineer from Poland :poland:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" title="ROS" **alt="ROS" width="100" height="40"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
