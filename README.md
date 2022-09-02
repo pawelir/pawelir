@@ -16,11 +16,11 @@
 ### :man_technologist: About Me :
 I am a Robotics Software Engineer from Poland :poland:
 
-- :telescope: I'm working as a Software Engineer and contribute to the Control Systems for Industrial Robots and Autonomous Vehicles.
+- :telescope: I'm working as a Software Engineer and contribute to the Control Systems for Industrial Robots and Autonomous Vehicles
 
 - :zap: In my free time, I spend my energy doing sports :skier: :bicyclist: :weight_lifting_man:
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pawelirzyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawelirzyk/)
+- :mailbox: How to reach me -> [![Linkedin Badge](https://img.shields.io/badge/-pawelirzyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawelirzyk/)
 
 ---
 
