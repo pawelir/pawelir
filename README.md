@@ -8,32 +8,33 @@
   </a>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## About Me
 
-### :man_technologist: About Me :
-I am a Robotics Software Engineer from Poland :poland:
+:man_technologist: Robotics Specialist with a strong academic foundation in robotics and hands-on experience in robotics software engineering.
 
-- :telescope: I'm working as a Software Engineer and contribute to the Control Systems for Industrial Robots and Autonomous Vehicles
+:gear: Software Engineer specializing in control systems development for industrial robots and autonomous vehicles.
 
-- :zap: In my free time, I spend my energy doing sports :skier: :bicyclist: :weight_lifting_man:
+:rocket: Proficient in crafting scalable and robust software tailored for advanced robotic applications.
 
-- :mailbox: How to reach me -> [![Linkedin Badge](https://img.shields.io/badge/-pawelirzyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawelirzyk/)
+:handshake: Actively contributing to cross-disciplinary projects.
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-pawelirzyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawelirzyk/) Click for more about my experience.
 
-### :hammer_and_wrench: Languages and Tools :
+## Technology stack
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" title="ROS" **alt="ROS" width="100" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://accelerationrobotics.com/img/ROS&ROS2.png" title="ROS" **alt="ROS" width="140" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="Gazebo" **alt="Gazebo" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHubActions" **alt="GitHubActions" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
 </div>
 
----
+## Some stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
