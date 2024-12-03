@@ -18,7 +18,9 @@
 
 :handshake: Actively contributing to cross-disciplinary projects.
 
-[![Linkedin Badge](https://img.shields.io/badge/-pawelirzyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawelirzyk/) Click for more about my experience.
+## Experience
+
+[![Linkedin Badge](https://img.shields.io/badge/-pawelirzyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawelirzyk/)
 
 ## Technology stack
 <div>
